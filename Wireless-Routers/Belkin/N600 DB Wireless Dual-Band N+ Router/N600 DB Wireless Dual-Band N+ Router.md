@@ -10,6 +10,7 @@
 
 - [Support](#support)
   * [Technical Specifications](#technical-specifications)
+  * [Internal Photos](#internal-photos)
   * [Firmware](#firmware)
 
 
@@ -124,6 +125,8 @@
           </tbody>
       </table>
       
+### Internal Photos
+
 ### Firmware
 - [F9J1102 - Ver. 1.00.10](https://www.belkin.com/support/dl/F9J1102-4_WW_1.00.10.bin)
 - [F9J1102 - Ver. 2.03.11](https://www.belkin.com/support/dl/F9J1102_WW_2.03.11.bin)
