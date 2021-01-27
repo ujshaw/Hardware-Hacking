@@ -126,6 +126,7 @@
       </table>
       
 ### Internal Photos
+![](Belkin-Internal.jpg)
 
 ### Firmware
 - [F9J1102 - Ver. 1.00.10](https://www.belkin.com/support/dl/F9J1102-4_WW_1.00.10.bin)
